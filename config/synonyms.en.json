@@ -1,7 +1,10 @@
+/*
+	first word on the line is the official or most common naming
+*/
 {
-en: [
-".net, dotnet",
-"reactjs, react js",
-"c#, csharp"
-]
+  "synonyms_en": [
+    "dotnet, .net",
+    "reactjs, react js",
+    "c#, csharp"
+  ]
 }

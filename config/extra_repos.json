@@ -1,0 +1,9 @@
+/*
+	additional repositories that aren't forks 
+	but still want to be processed by the matcher
+*/
+{
+	"extra_repos": [
+		"alexro/jobs"
+	]
+}
