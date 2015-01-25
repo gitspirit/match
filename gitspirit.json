@@ -1,0 +1,10 @@
+{
+  "match": {
+    "cv_repos": [
+      "alexro/cv"
+    ],
+    "jobs_repos": [
+      "alexro/jobs"
+    ]
+  }
+}
